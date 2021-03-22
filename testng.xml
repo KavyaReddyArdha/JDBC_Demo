@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/pc/IdeaProjects/JDBC_Demo"><classes/></test></suite>
+
+<web-app>
+<servlet>
+    <servlet-name>Welcome to Servlet</servlet-name>
+<servlet-class>C:\Users\pc\IdeaProjects\JDBC_Demo\src\ServletEx.java</servlet-class>
+
+</servlet>
+<servlet-mapping>
+    <servlet-name>Welcome to Servlet</servlet-name>
+<url-pattern>Welcome to Servlet</url-pattern>
+</servlet-mapping>
+</web-app>
